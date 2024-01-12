@@ -1,0 +1,6 @@
+{
+	"name": "smol-space3d",
+	"dependencies": [
+		"catch2"
+	]
+}
